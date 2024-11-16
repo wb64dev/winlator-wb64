@@ -23,7 +23,7 @@ Winlator WB64 is an Android application that lets you to run Windows (x86_64) ap
 
 # Information
 
-Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing.
+Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities.
 
 # Credits and Third-party apps
 - Winlator ([winlator.org](https://winlator.org/))
