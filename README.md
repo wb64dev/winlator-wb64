@@ -25,7 +25,6 @@ Winlator WB64 is an Android application that lets you to run Windows (x86_64) ap
 Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities.
 
 # Credits and Third-party apps
-- Winlator ([winlator.org](https://winlator.org/))
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
 - Wine ([winehq.org](https://www.winehq.org/))
 - Box86/Box64 by [ptitseb](https://github.com/ptitSeb)
@@ -36,7 +35,7 @@ Results can vary based on the device used, environmental conditions, and other f
 - D8VK ([github.com/AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk))
 - CNC DDraw ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
 
-Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/) (Turnip), [alexvorxx](https://github.com/alexvorxx), [Windah](https://www.facebook.com/profile.php?id=61566865970032) (Mods/Tips) and others.<br>
+Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/) (Turnip), [alexvorxx](https://github.com/alexvorxx) (Mods/Tips) and others.<br>
 Thank you to all the people who believe in this project.
 
 Support by [donate here](https://ibb.co/zsgLRXv)
