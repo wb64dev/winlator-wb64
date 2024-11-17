@@ -11,8 +11,6 @@ Winlator WB64 is an Android application that lets you to run Windows (x86_64) ap
 1. Download and install the APK (Winlator_8.4.5.apk) from __[GitHub Releases >> DOWNLOAD <<](https://github.com/wb64dev/Winlator-WB64/releases)__
 2. Launch the app and wait for the installation process to finish
 
-**Support us? >> [Donate](https://ibb.co/zsgLRXv) <<**
-
 # Useful Tips
 
 - If you are experiencing performance issues, try changing the Box64 preset to __`Performance (Gaming Mode)`__ in Container Settings -> Advanced Tab.
@@ -40,3 +38,5 @@ Results can vary based on the device used, environmental conditions, and other f
 
 Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/) (Turnip), [alexvorxx](https://github.com/alexvorxx), [Windah](https://www.facebook.com/profile.php?id=61566865970032) (Mods/Tips) and others.<br>
 Thank you to all the people who believe in this project.
+
+Support by [donate here](https://ibb.co/zsgLRXv)
