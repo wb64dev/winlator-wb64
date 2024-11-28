@@ -22,7 +22,9 @@ Winlator WB64 is an Android application that lets you to run Windows (x86_64) ap
 
 # Information
 
-Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities.
+Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities. 
+
+(Freedreno and Turnip are only compatible with Adreno 610 and above with exceptions like 710, 642L, etc)
 
 # Credits and Third-party apps
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
