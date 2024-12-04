@@ -42,5 +42,3 @@ Results can vary based on the device used, environmental conditions, and other f
 
 Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/) (Turnip), [alexvorxx](https://github.com/alexvorxx) (Mods/Tips) and others.<br>
 Thank you to all the people who believe in this project.
-
-Support by [donate here](https://ibb.co/zsgLRXv)
