@@ -2,7 +2,7 @@
 	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />  
 </p>
 
-![Total Downloads](https://img.shields.io/badge/50k+-wb64?style=for-the-badge&logo=github&logoColor=white&logoSize=14&label=Total%20Downloads&labelColor=gray&color=66BA32)
+![Total Downloads](https://img.shields.io/badge/70k+-wb64?style=for-the-badge&logo=github&logoColor=white&logoSize=14&label=Total%20Downloads&labelColor=gray&color=66BA32)
 
 # Winlator
 
