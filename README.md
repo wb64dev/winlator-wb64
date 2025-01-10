@@ -20,14 +20,14 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 - For applications that use .NET Framework, try installing __`Wine Mono`__ found in Start Menu -> System Tools.
 - If some older games don't open, try adding the environment variable __`MESA_EXTENSION_MAX_YEAR=2003`__ in Container Settings -> Environment Variables.
 - Try running the games using the shortcut on the Winlator home screen, there you can define individual settings for each game.
-- To __speed up the installers__, try changing the Box64 preset to __`Intermediate (Speed-up Installer)`__ in Container Settings -> Advanced Tab.
+- To display low resolution games correctly, try to enabling the __`Force Fullscreen`__ option in the shortcut settings -> Advanced Tab.
 - To __improve stability__ in games that uses Unity Engine, try changing the Box64 preset to __`Stability (Unity Games)`__ or in the shortcut settings add the exec argument __`-force-gfx-direct`__.
 
 # Information
 
 Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities. 
 
-(Freedreno and Turnip are only compatible with Adreno 610 and above with exceptions like 710, 642L, etc)
+(Freedreno and Turnip are only compatible with Adreno 610 and above with exceptions like 710, 642L, etc are using Vortek)
 
 # Credits and Third-party apps
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
