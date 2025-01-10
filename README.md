@@ -10,7 +10,7 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 
 # Installation
 
-1. Download and install the APK (Winlator_8.5.5.apk) from __[GitHub Releases >> DOWNLOAD <<](https://github.com/wb64dev/Winlator-WB64/releases)__
+1. Download and install the APK (Winlator_8.5.5.apk) from __[GitHub Releases >DOWNLOAD<](https://github.com/wb64dev/Winlator-WB64/releases)__
 2. Launch the app and wait for the installation process to finish
 
 # Useful Tips
@@ -25,8 +25,6 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 # Information
 
 Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities. 
-
-(Freedreno and Turnip are only compatible with Adreno 610 and above with exceptions like 710, 642L, etc are using Vortek)
 
 # Credits and Third-party apps
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
