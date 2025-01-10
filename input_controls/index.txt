@@ -4,4 +4,3 @@ Just Cause 2.icp
 NFS MW 2012.icp
 Resident Evil 5.icp
 The Killing Antidote.icp
-# CONTROL LAYOUT BY WB64
