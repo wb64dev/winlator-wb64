@@ -20,7 +20,7 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 - If some older games don't open, try adding the environment variable __`MESA_EXTENSION_MAX_YEAR=2003`__ in Container Settings -> Environment Variables.
 - Try running the games using the shortcut on the Winlator home screen, there you can define individual settings for each game.
 - To display low resolution games correctly, try to enabling the __`Force Fullscreen`__ option in the shortcut settings -> Advanced Tab.
-- To __improve stability__ in games that uses Unity Engine, try changing the Box64 preset to __`Stability (Unity Games)`__ or in the shortcut settings add the exec argument __`-force-gfx-direct`__.
+- To __improve stability__ in games that uses Unity Engine, try changing the Box64 preset to __`Stability (Unity Games)`__ or in the shortcut settings -> Advanced Tab, add the exec argument __`-force-gfx-direct`__.
 
 # Information
 
