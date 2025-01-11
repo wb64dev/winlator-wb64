@@ -1,1 +1,0 @@
-DXVK 2.5 comes a complete rewrite to the resource and memory management code so that DXVK is now more efficient with allocated video memory. DXVK 2.5 should now have less vRAM fragmentation during peak memory use with games like God of War seeing up to 1GB less memory use in extreme scenarios. Video memory defragmentation is also carried out periodically in the background.
