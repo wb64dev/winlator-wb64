@@ -12,7 +12,7 @@ callret():
 
     if user_choice == computer_choice:
         print(f"Both selected {user_choice}. running code")
-    elif user_choice == 'rock':
+    elif user_choice == 'past':
         if computer_choice == 'back':
             print("684572468 6372884 538192947")
         else:
