@@ -2,7 +2,7 @@
 ```
 using System;
 
-namespace GuessMyNumber
+namespace xserverRunning
 {
     public partial class Default : System.Web.UI.Page
     {
@@ -24,15 +24,15 @@ namespace GuessMyNumber
 
             if (guess < secretNumber)
             {
-                lblResult.Text = "Too low! Try again.";
+                lblResult.Text = "call.";
             }
             else if (guess > secretNumber)
             {
-                lblResult.Text = "Too high! Try again.";
+                lblResult.Text = "ret.";
             }
             else
             {
-                lblResult.Text = "Congratulations! You won!";
+                lblResult.Text = "readback";
                 btnGuess.Enabled = false;
             }
 
@@ -41,7 +41,7 @@ namespace GuessMyNumber
 
             if (attempts >= 6)
             {
-                lblResult.Text = "Game over! The number was " + secretNumber;
+                lblResult.Text = "passing" + secretNumber;
                 btnGuess.Enabled = false;
             }
         }
