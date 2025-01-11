@@ -1,6 +1,16 @@
 Afterburn.icp
-Keyboard QWERTY.icp
+Burnout Paradise.icp
+FIFA 04.icp
+GTA SA.icp
 Just Cause 2.icp
+Keyboard QWERTY.icp
+MotoGP 1 Ultimate Racing.icp
+NFS MW 2005.icp
 NFS MW 2012.icp
+NFS Underground.icp
+NFS Underground 2.icp
 Resident Evil 5.icp
 The Killing Antidote.icp
+Quadro Racing (ATV).icp
+Wild Wolf.icp
+WW2 Berlin.icp
