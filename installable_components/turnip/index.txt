@@ -1,7 +1,10 @@
+turnip-25.0.0.7 R7 (coming soon).tzst
+turnip-25.0.0.6 R6 (coming soon).tzst
 turnip-25.0.0.5.tzst
+turnip-25.0.0.4.tzst
 turnip-25.0.0.3.tzst
 turnip-24.3.0.tzst
-turnip-24.2.0.tzst
+turnip-24.2.0 (a6xx).tzst
 turnip-24.0.9.tzst
 turnip-23.3.1.tzst
 turnip-23.3.0.tzst
