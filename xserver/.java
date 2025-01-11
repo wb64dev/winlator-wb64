@@ -3,7 +3,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Hangman {
+public class xserver {
     public static void main(String[] args) {
         String[] words = {"apple", "banana", "cherry", "date", "elderberry"};
         Random rand = new Random();
