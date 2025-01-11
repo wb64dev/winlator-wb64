@@ -1,0 +1,27 @@
+---
+// Import Astro components
+import { html, render } from 'astro';
+
+// Define audio player component
+const AudioPlayer = ({ src, title }) => {
+  return html`
+    <div>
+      <h2>${title}</h2>
+      <audio controls>
+        <source src=${src} type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </div>
+  `;
+};
+
+// Render audio player component
+render(
+  html`
+    <body>
+      <AudioPlayer src="audio_file.mp3" title="My Audio File" />
+    </body>
+  `,
+  document.body
+);
+```
