@@ -1,5 +1,5 @@
 turnip-25.0.0.7 R7 (coming soon).tzst
-turnip-25.0.0.6 R6 (coming soon).tzst
+turnip-25.0.0.6.tzst
 turnip-25.0.0.5.tzst
 turnip-25.0.0.4.tzst
 turnip-25.0.0.3.tzst
