@@ -8,11 +8,13 @@
 
 Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
 
+----
 # Installation
 
 1. Download and install the APK (Winlator_8.5.5.apk) from __[GitHub Releases >DOWNLOAD<](https://github.com/wb64dev/winlator/releases)__
 2. Launch the app and wait for the installation process to finish
 
+----
 # Useful Tips
 
 - If you are experiencing performance issues, try changing the Box64 preset to __`Performance (Gaming Mode)`__ in Container Settings -> Advanced Tab.
@@ -22,10 +24,12 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 - To display low resolution games correctly, try to enabling the __`Force Fullscreen`__ option in the shortcut settings -> Advanced Tab.
 - To __improve stability__ in games that uses Unity Engine, try changing the Box64 preset to __`Stability (Unity Games)`__ or in the shortcut settings -> Advanced Tab, add the exec argument __`-force-gfx-direct`__.
 
+----
 # Information
 
 Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities. 
 
+----
 # Credits and Third-party apps
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
 - Wine ([winehq.org](https://www.winehq.org/))
