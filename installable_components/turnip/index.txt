@@ -1,5 +1,5 @@
 ⚠️Having problem with the game/app? Try another version. 
-turnip-25.x.x.x (Stay tune for more version).tzst
+turnip-25.x.x.x (Stay tune for more).tzst
 turnip-25.0.0.6.tzst
 turnip-25.0.0.5.tzst
 turnip-25.0.0.4.tzst
