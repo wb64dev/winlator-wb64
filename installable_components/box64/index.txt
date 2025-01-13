@@ -1,4 +1,4 @@
--⚠️Having problem with the game/app? Try another version. 
+⚠️ Having problem with the game/app? Try another version. 
 box64-0.3.4 (Stay tune for more)
 box64-0.3.3 (Custom)
 box64-0.3.2.tzst
