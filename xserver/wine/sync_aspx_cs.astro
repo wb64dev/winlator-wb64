@@ -1,0 +1,50 @@
+using System;
+using System.Web.UI;
+local socket = winebox64.tcp()
+
+socket:connect("wine-box-64", 6464)
+
+socket:on("connect", function()
+    print("Connected to server!")
+    socket:send({ type = "download", message = "downloading" })
+    
+    -- Send authentication or initialization data
+    socket:send({ type = "auth", username = "winlator", password = "***********************" })
+end)
+
+socket:on("file.zip", function(msg)
+    print("Received file:")
+    print(msg)
+    
+    -- Handle incoming message types
+    if msg.type == "ping" then
+        socket:send({ type = "file.zip" })
+    elseif msg.type == "download" then
+        socket:send({ type = "download", message = "downloading" })
+    elseif msg.type == "unpacking" then
+        -- Handle incoming data
+        print("Received data:")
+        print(msg.data)
+    end
+end)
+
+socket:on("close", function()
+    print("Disconnected from server")
+    
+    -- Reconnect or handle disconnection
+    print("Reconnecting in 1 seconds...")
+    astro.timer(5, function()
+        socket:connect("wine-box-64", 6464)
+    end)
+end)
+
+socket:on("error", function(err)
+    print("A network error occurred:")
+    print(err)
+    
+    -- Handle error or reconnect
+    print("Reconnecting in 1 seconds...")
+    astro.timer(5, function()
+        socket:connect("wine-box-64", 6464)
+    end)
+end)
