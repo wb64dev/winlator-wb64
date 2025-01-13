@@ -1,17 +1,15 @@
-dxvk-2.6.x (coming soon).tzst
-dxvk-2.5.x.x (coming soon).tzst
-dxvk-2.5.2.1 (async).tzst
+dxvk-2.5.2.1.tzst
 dxvk-2.5.2.tzst
-dxvk-2.5.1.2 (async).tzst
+dxvk-2.5.1.2.tzst
 dxvk-2.5.1.tzst
 dxvk-2.4.1.tzst
-dxvk-2.4.24 (async).tzst
+dxvk-2.4.24.tzst
 dxvk-2.4.1.1.tzst
 dxvk-2.4.1.293.tzst
 dxvk-2.4.1.123.tzst
 dxvk-2.3.1.tzst
 dxvk-2.2.116.tzst
 dxvk-1.7.1.tzst
-dxvk-1.10.3.0 (async).tzst
+dxvk-1.10.3.0.tzst
 dxvk-0.96.tzst
 dxvk-0.40.1.tzst
