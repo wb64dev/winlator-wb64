@@ -4,7 +4,7 @@ turnip-25.x.x.x (Stay tune for more).
 turnip-25.0.0.3.tzst
 turnip-24.3.0.tzst
 turnip-24.2.0.tzst
-turnip-24.1.0 (Balance-Performance-Stability)
+turnip-24.1.0 Installed (Balance-Performance)
 turnip-24.0.9.tzst
 turnip-23.3.1.tzst
 turnip-23.3.0.tzst
