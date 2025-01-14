@@ -1,4 +1,4 @@
-⚠️ Having problem with the game/app? Try another version. 
+⚠️ Having problem with the game? Try another version. 
 INFO: added v2.5.3🎉
 dxvk-2.x.x (Stay tune for more)
 dxvk-2.5.3.tzst
