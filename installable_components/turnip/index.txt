@@ -1,8 +1,7 @@
-⚠️ Having problem with the game/app? Try another version. 
-turnip-25.x.x.x (Stay tune for more).tzst
-turnip-25.0.0.6.tzst
+⚠️ Having problem with the game? Try another version.
+INFO: vulkan 1.4 needed for v25.x.x.
+turnip-25.x.x.x (Stay tune for more).
 turnip-25.0.0.3.tzst
-turnip-25.0.0.tzst
 turnip-24.3.0.tzst
 turnip-24.2.0.tzst
 turnip-24.1.0 (Balance-Performance-Stability)
