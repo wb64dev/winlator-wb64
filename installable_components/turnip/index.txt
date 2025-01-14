@@ -1,6 +1,8 @@
 ⚠️ Having problem with the game? Try another version.
-INFO: vulkan 1.4 needed for v25.x.x.
+INFO: some of v25.0.0 need device with vulkan 1.3+
 turnip-25.x.x.x (Stay tune for more).
+turnip-25.0.0.6.tzst
+turnip-25.0.0.5.tzst
 turnip-25.0.0.3.tzst
 turnip-24.3.0.tzst
 turnip-24.2.0.tzst
