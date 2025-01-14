@@ -1,6 +1,7 @@
 ⚠️ Having problem with the game? Try another version. 
 INFO: added v2.5.3🎉
 dxvk-2.x.x (Stay tune for more)
+dxvk-2.5.3.1 Async version (W.I.P)
 dxvk-2.5.3.tzst
 dxvk-2.5.2.1.tzst
 dxvk-2.5.2.tzst
