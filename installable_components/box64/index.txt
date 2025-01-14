@@ -1,6 +1,6 @@
 ⚠️ Having problem with the game? Try another version. 
-box64-0.3.4 (Stay tune for more)
-box64-0.3.3 (Custom)
+box64-0.3.4 and later (Stay tune for more)
+box64-0.3.3 Installed (Custom)
 box64-0.3.2.tzst
 box64-0.3.1.tzst
 box64-0.3.0.tzst
