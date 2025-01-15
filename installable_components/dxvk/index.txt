@@ -13,7 +13,7 @@ dxvk-2.4.1.293.tzst
 dxvk-2.4.1.123.tzst
 dxvk-2.3.1.tzst
 dxvk-2.2.116.tzst
-dxvk-1.7.2 + Vortek (6gen1, 7+gen2, 7gen3)
+dxvk-1.7.2 + Vortek (8 elite, 7 gen3, 7s gen2, 7+ gen2, 6 gen3, 6 gen1, 735)
 dxvk-1.7.1.tzst
 dxvk-1.10.3.0.tzst
 dxvk-0.96.tzst
