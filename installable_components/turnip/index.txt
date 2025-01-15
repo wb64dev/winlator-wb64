@@ -1,6 +1,6 @@
 ⚠️ Having problem with the game? Try another version.
 Info: some of v25.x.x need device with vulkan 1.3+
-(R7) added v25.0.0.7 & 25.0.7(A6xx) experimental
+(R7) added v25.0.0.7 & 25.0.7(A6xx) experimental.
 turnip-25.0.0.7.tzst
 turnip-25.0.7.tzst
 turnip-25.0.0.6.tzst
