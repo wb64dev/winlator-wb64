@@ -22,7 +22,7 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 
 # Vortek Driver (Experimental)
 
-List:
+List (updated):
 
 ![Qualcomm](https://img.shields.io/badge/Snapdragon%208%20Elite-grey?style=plastic&logo=snapdragon&logoColor=red)
 ![Qualcomm](https://img.shields.io/badge/Snapdragon%207s%20Gen%203-grey?style=plastic&logo=snapdragon&logoColor=red)
