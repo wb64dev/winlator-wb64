@@ -17,5 +17,5 @@ dxvk-1.7.2 + Vortek (6gen1, 7+gen2, 7gen3)
 dxvk-1.7.1.tzst
 dxvk-1.10.3.0.tzst
 dxvk-0.96.tzst
-INFO: 0.96 + Vortek driver.
+INFO: v0.96 + Vortek driver.
 dxvk-0.40.1.tzst
