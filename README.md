@@ -1,9 +1,9 @@
-## Play Your Favorite PC Games Anywhere, Anytime.
+# Play Your Favorite PC Games Anywhere, Anytime.
 <p align="center">
 	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />  
 </p>
 
-![Total DL](https://img.shields.io/badge/10M+-wb64?style=for-the-badge&logo=github&logoColor=white&logoSize=14&label=Total%20Downloads&labelColor=gray&color=66BA32)
+![Total](https://img.shields.io/badge/10M+-wb64?style=for-the-badge&logo=github&logoColor=white&logoSize=14&label=Total%20Downloads&labelColor=gray&color=66BA32)
 
 # Winlator
 
@@ -12,7 +12,9 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 ----
 # Installation
 
-1. Download and install the APK (Winlator_9.1.1.apk) from [GitHub Releases Download](https://github.com/winebox64/winlator/releases)
+1. Download and install the APK (Winlator_9.1.1.apk) from here [![Download Apk](https://img.shields.io/badge/%20DOWNLOAD%20-wb64?style=flat&logo=&logoColor=green&logoSize=18&label=%20&labelColor=golden&color=66BA32)](https://github.com/winebox64/winlator/releases)
+
+
 2. Launch the app and wait for the installation process to finish
 
 ----
