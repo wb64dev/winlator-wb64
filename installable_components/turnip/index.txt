@@ -2,6 +2,7 @@
 ⚠️ INFO: 8 elite, 7 gen3, 7s gen2, 7+ gen2, 6 gen3, 6 gen1, 735 work with VORTEK.
 ⚠️ INFO: some of v25.x.x need device with vulkan 1.3+.
 ⚠️ INFO: (R7) added v25.0.0.7 & v25.0.7(A6xx) experimental.
+new version? stay tune.
 turnip-25.0.0.7.tzst
 turnip-25.0.7.tzst
 turnip-25.0.0.6.tzst
