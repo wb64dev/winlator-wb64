@@ -1,18 +1,19 @@
 ⚠️ Having problem with the game? Try another version. 
-(gpl-async) added v2.5.3.1 #Stay tune for more info.
+(GPL-ASYNC) added v2.5.3.1 #stay tune for more.
 dxvk-2.5.3.1.tzst
 dxvk-2.5.3.tzst
 dxvk-2.5.2.1.tzst
 dxvk-2.5.2.tzst
 dxvk-2.5.1.2.tzst
 dxvk-2.5.1.tzst
-dxvk-2.4.1 Installed (Balance-Performance)
+dxvk-2.4.1 (Installed) Balance-Performance
 dxvk-2.4.24.tzst
 dxvk-2.4.1.1.tzst
 dxvk-2.4.1.293.tzst
 dxvk-2.4.1.123.tzst
 dxvk-2.3.1.tzst
 dxvk-2.2.116.tzst
+dxvk-1.7.2 for Vortek (6gen1, 7+gen2)
 dxvk-1.7.1.tzst
 dxvk-1.10.3.0.tzst
 dxvk-0.96.tzst
