@@ -1,4 +1,4 @@
-#### Play Your Favorite PC Games Anywhere, Anytime.
+#### Play your favorite games, Anywhere, Anytime.
 <p align="center">
 	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />  
 </p>
