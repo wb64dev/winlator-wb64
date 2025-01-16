@@ -19,6 +19,16 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 3. Launch the app and wait for the installation process to finish
 
 ----
+# Useful Tips
+
+- If you are experiencing performance issues, try changing the Box64 preset to __`Performance (Gaming Mode)`__ in Container Settings -> Advanced Tab.
+- For applications that use .NET Framework, try installing __`Wine Mono`__ found in Start Menu -> System Tools.
+- If some older games don't open, try adding the environment variable __`MESA_EXTENSION_MAX_YEAR=2003`__ in Container Settings -> Environment Variables.
+- Try running the games using the shortcut on the Winlator home screen, there you can define individual settings for each game.
+- To display low resolution games correctly, try to enabling the __`Force Fullscreen`__ option in the shortcut settings -> Advanced Tab.
+- To __improve stability__ in games that uses Unity Engine, try changing the Box64 preset to __`Stability (Unity Games)`__ or in the shortcut settings -> Advanced Tab, add the exec argument __`-force-gfx-direct`__.
+
+----
 
 # Vortek Driver (Experimental)
 
@@ -34,21 +44,12 @@ List (updated):
 ![Qualcomm](https://img.shields.io/badge/Snapdragon%20735-grey?style=plastic&logo=snapdragon&logoColor=red)
 
 ----
-# Useful Tips
 
-- If you are experiencing performance issues, try changing the Box64 preset to __`Performance (Gaming Mode)`__ in Container Settings -> Advanced Tab.
-- For applications that use .NET Framework, try installing __`Wine Mono`__ found in Start Menu -> System Tools.
-- If some older games don't open, try adding the environment variable __`MESA_EXTENSION_MAX_YEAR=2003`__ in Container Settings -> Environment Variables.
-- Try running the games using the shortcut on the Winlator home screen, there you can define individual settings for each game.
-- To display low resolution games correctly, try to enabling the __`Force Fullscreen`__ option in the shortcut settings -> Advanced Tab.
-- To __improve stability__ in games that uses Unity Engine, try changing the Box64 preset to __`Stability (Unity Games)`__ or in the shortcut settings -> Advanced Tab, add the exec argument __`-force-gfx-direct`__.
-
-----
 # Information
 
-This project has been in constant development since version 1.0, the current app source code is up to version 7.1, I do not update this repository frequently precisely to avoid unofficial releases before the official releases of Winlator.
+**This project has been in constant development since version 1.0, the current app** ![Download Apk](https://img.shields.io/badge/%20Source%20Code-wb64?style=plastic&logo=&logoColor=red&logoSize=14&label=%20&labelColor=golden&color=red) **is up to version 7.1, I do not update this repository frequently precisely to avoid unofficial releases before the official releases of Winlator.**
 
-Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities. 
+**Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities.**
 
 ----
 # Credits and Third-party apps
