@@ -46,6 +46,8 @@ List (updated):
 ----
 # Information
 
+This project has been in constant development since version 1.0, the current app source code is up to version 7.1, I do not update this repository frequently precisely to avoid unofficial releases before the official releases of Winlator.
+
 Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities. 
 
 ----
