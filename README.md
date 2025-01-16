@@ -49,7 +49,7 @@ List (updated):
 
 **This project has been in constant development since version 1.0, the current app** [![Download Apk](https://img.shields.io/badge/%20Source%20Code-wb64?style=plastic&logo=&logoColor=red&logoSize=14&label=%20&labelColor=golden&color=red)](https://github.com/winebox64/winlator/tree/main/(1)_WINLATOR_v8.0%2B_SOURCE_CODE%3F) **is up to version 7.1, I do not update this repository frequently precisely to avoid unofficial releases before the official releases of Winlator.**
 
-**Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities.**
+Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities.
 
 ----
 # Credits and Third-party apps
