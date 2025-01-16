@@ -3,7 +3,7 @@
 	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />  
 </p>
 
-[![Total](https://img.shields.io/badge/10M+%20total%20download-wb64?style=for-the-badge&logo=github&logoColor=white&logoSize=14&label=%20&labelColor=gold&color=blue)](https://github.com/winebox64/winlator/releases/)
+[![Total](https://img.shields.io/badge/10M+%20total%20downloads-wb64?style=for-the-badge&logo=github&logoColor=white&logoSize=14&label=%20&labelColor=gold&color=blue)](https://github.com/winebox64/winlator/releases/)
 
 
 # Winlator
@@ -32,7 +32,7 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 
 # Vortek Driver (Experimental)
 
-List (updated):
+List:
 
 ![Qualcomm](https://img.shields.io/badge/Snapdragon%208%20Elite-grey?style=plastic&logo=snapdragon&logoColor=red)
 ![Qualcomm](https://img.shields.io/badge/Snapdragon%207s%20Gen%203-grey?style=plastic&logo=snapdragon&logoColor=red)
