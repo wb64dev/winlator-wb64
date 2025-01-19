@@ -3,7 +3,7 @@
 	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />  
 </p>
 
-<p align="left">
+<p align="center">
 	<img src="https://img.shields.io/badge/10M+%20total%20downloads-wb64?style=for-the-badge&logo=github&logoColor=white&logoSize=14&label=%20&labelColor=gold&color=blue" width="350" />  
 </p>
 
