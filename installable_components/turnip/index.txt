@@ -1,5 +1,5 @@
 ⚠️ Having problem with the game? Try another version.
-⚠️ INFO: 8 elite, 7 gen3, 7s gen2, 7+ gen2, 6 gen3, 6 gen1, 865, 735 work with VORTEK.
+⚠️ INFO: 8 elite, 7 gen3, 7s gen2, 7+ gen2, 6 gen3, 6 gen1, 860, 735 using VORTEK.
 ⚠️ INFO: v25.x.x.x for A7xx with vulkan 1.4+
 ⚠️ INFO: v25.x.x for A6xx with vulkan 1.1+
 ⚠️ INFO: (R7) v25.0.7 (A6xx) & v25.0.0.7 (A7xx) Early Access.
