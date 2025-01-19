@@ -3,8 +3,9 @@
 	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />  
 </p>
 
+
 <p align="center">
-	<img src="https://img.shields.io/badge/10M+%20total%20downloads-wb64?style=for-the-badge&logo=github&logoColor=white&logoSize=14&label=%20&labelColor=gold&color=blue" width="350" />  
+	<img src="https://img.shields.io/badge/10M+%20total%20downloads-wb64?style=for-the-badge&logo=github&logoColor=white&logoSize=14&label=%20&labelColor=gold&color=blue" height="48" width="376" />  
 </p>
 
 
@@ -16,7 +17,7 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 ----
 # Installation
 
-1. Download and install the APK (Winlator_9.1.1.apk) from here👉 [![Download Apk](https://img.shields.io/badge/%20DOWNLOAD%20-wb64?style=plastic&logo=&logoColor=green&logoSize=14&label=%20&labelColor=golden&color=66BA32)](https://github.com/winebox64/winlator/releases)
+1. Download and install the APK (Winlator_9.1.1.apk) from here [![Download Apk](https://img.shields.io/badge/%20DOWNLOAD%2010M+-wb64?style=plastic&logo=&logoColor=green&logoSize=14&label=%20&labelColor=golden&color=66BA32)](https://github.com/winebox64/winlator/releases)
 
 
 3. Launch the app and wait for the installation process to finish
@@ -33,7 +34,7 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 
 ----
 
-# Vortek Driver (Experimental)
+## Vortek Driver (Experimental)
 
 List:
 
