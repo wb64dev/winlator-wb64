@@ -1,6 +1,7 @@
 ⚠️ Having problem with the game? Try another version.
 new version? stay tune.
-box64-0.3.3 (Installed)
+box64-0.3.4 (Coming Soon)
+box64-0.3.3 (Default)
 box64-0.3.2.tzst
 box64-0.3.1.tzst
 box64-0.3.0.tzst
