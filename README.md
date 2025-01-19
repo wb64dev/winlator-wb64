@@ -3,7 +3,10 @@
 	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />  
 </p>
 
-[![Total](https://img.shields.io/badge/10M+%20total%20downloads-wb64?style=for-the-badge&logo=github&logoColor=white&logoSize=14&label=%20&labelColor=gold&color=blue)](https://github.com/winebox64/winlator/releases/)
+<p align="left">
+	<img src="https://img.shields.io/badge/10M+%20total%20downloads-wb64?style=for-the-badge&logo=github&logoColor=white&logoSize=14&label=%20&labelColor=gold&color=blue" width="350" />  
+</p>
+
 
 
 # Winlator
