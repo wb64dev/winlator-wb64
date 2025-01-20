@@ -5,7 +5,7 @@
 
 
 <p align="center">
-	<img src="https://img.shields.io/badge/10M+%20total%20downloads-wb64?style=for-the-badge&logo=github&logoColor=white&logoSize=14&label=%20&labelColor=gold&color=blue" height="48" width="376" />  
+	<img src="https://img.shields.io/badge/10M+%20Total%20Downloads-wb64?style=for-the-badge&logo=github&logoColor=white&logoSize=14&label=%20&labelColor=gold&color=violet" height="45" width="376" />  
 </p>
 
 
