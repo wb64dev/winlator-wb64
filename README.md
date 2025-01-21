@@ -6,7 +6,7 @@
 
 
 <p align="left">
-	<img src="https://img.shields.io/badge/%2010M+%20-winebox64?style=plastic&logo=android&logoColor=green&logoSize=14&label=Downloads%20&labelColor=gray&color=66BA32" height="20" width="128" />  
+	<img src="https://img.shields.io/badge/%2010M+%20-winebox64?style=plastic&logo=linux&logoColor=green&logoSize=14&label=Android%20&labelColor=gray&color=66BA32" height="25" width="160" />  
 </p>
 
 # Winlator 
