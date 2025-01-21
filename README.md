@@ -1,16 +1,15 @@
 #### Play your favorite games, Anywhere, Anytime.
+
 <p align="center">
 	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />  
 </p>
 
 
-<p align="center">
-	<img src="https://img.shields.io/badge/10M+%20Downloads-winebox64?style=for-the-badge&logo=winlator&logoColor=white&logoSize=14&label=%20&labelColor=gold&color=silver" height="20" width="100" />  
+<p align="left">
+	<img src="https://img.shields.io/badge/%2010M+%20-winebox64?style=modern&logo=android&logoColor=66BA32&logoSize=14&label=Downloads%20&labelColor=gray&color=bluer" height="20" width="120" />  
 </p>
 
-
-
-# Winlator
+# Winlator 
 
 Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64.
 
