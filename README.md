@@ -40,12 +40,19 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 List:
 
 ![Qualcomm](https://img.shields.io/badge/Snapdragon%208%20Elite-grey?style=plastic&logo=snapdragon&logoColor=red)
+
 ![Qualcomm](https://img.shields.io/badge/Snapdragon%207s%20Gen%203-grey?style=plastic&logo=snapdragon&logoColor=red)
+
 ![Qualcomm](https://img.shields.io/badge/Snapdragon%207%20Gen%203-grey?style=plastic&logo=snapdragon&logoColor=red)
+
 ![Qualcomm](https://img.shields.io/badge/Snapdragon%207s%20Gen%202-grey?style=plastic&logo=snapdragon&logoColor=red)
+
 ![Qualcomm](https://img.shields.io/badge/Snapdragon%206%20Gen%203-grey?style=plastic&logo=snapdragon&logoColor=red)
+
 ![Qualcomm](https://img.shields.io/badge/Snapdragon%206%20Gen%201-grey?style=plastic&logo=snapdragon&logoColor=red)
+
 ![Qualcomm](https://img.shields.io/badge/Snapdragon%20860-grey?style=plastic&logo=snapdragon&logoColor=red)
+
 ![Qualcomm](https://img.shields.io/badge/Snapdragon%20735-grey?style=plastic&logo=snapdragon&logoColor=red)
 
 ----
