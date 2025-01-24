@@ -1,6 +1,7 @@
 #### Play your favorite games, Anywhere, Anytime.
 
 <p align="center">
+	<a href="https://github.com/winebox64/winlator/releases">
 	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />  
 </p>
 
