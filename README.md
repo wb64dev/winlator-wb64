@@ -2,13 +2,13 @@
 
 <p align="center">
 	<a href="https://github.com/winebox64/winlator/releases">
-	<img src="logos.pngg" width="376" height="128" alt="Winlator Logo" />  
+	<img src="logos.pngg" height="256" width="752" alt="Winlator Logo" />  
 </p>
 
 
 <p align="left">
 	<a href="https://github.com/winebox64/winlator/releases">
-	<img src="https://img.shields.io/badge/%2010M+%20-winebox64?style=plastic&logo=android&logoColor=green&logoSize=14&label=Android%20&labelColor=gray&color=66CA32" height="22" width="132" />  
+	<img src="https://img.shields.io/badge/%2010M+%20-winebox64?style=plastic&logo=android&logoColor=green&logoSize=14&label=Android%20&labelColor=gray&color=66BA32" height="22" width="132" />  
 </p>
 
 # Winlator 
@@ -18,7 +18,7 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 ----
 # Installation
 
-1. Download and install the APK (Winlator_9.1.1.apk) from here [![Download Apk](https://img.shields.io/badge/%20DOWNLOAD%20-wb64?style=plastic&logo=&logoColor=green&logoSize=14&label=%20&labelColor=golden&color=66CA32)](https://github.com/winebox64/winlator/releases)
+1. Download and install the APK (Winlator_9.1.1.apk) from here [![Download Apk](https://img.shields.io/badge/%20DOWNLOAD%20-wb64?style=plastic&logo=&logoColor=green&logoSize=14&label=%20&labelColor=golden&color=66BA32)](https://github.com/winebox64/winlator/releases)
 
 
 3. Launch the app and wait for the installation process to finish
