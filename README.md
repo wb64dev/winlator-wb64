@@ -78,3 +78,7 @@ Results can vary based on the device used, environmental conditions, and other f
 Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/) (Turnip), [alexvorxx](https://github.com/alexvorxx) (Mods/Tips) and others.<br>
 Thank you to all the people who believe in this project.
 
+<p align="center">
+	<a href="https://github.com/winebox64/winlator/releases">
+	<img src="logo.png" height="128" width="376" alt="Winlator Logo" />  
+</p>
