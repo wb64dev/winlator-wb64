@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/winebox64/winlator/releases">
-	<img src="logos.pngg" height="128" width="376" alt="Winlator Logo" />  
+	<img src="logo.png" height="128" width="376" alt="Winlator Logo" />  
 </p>
 
 
