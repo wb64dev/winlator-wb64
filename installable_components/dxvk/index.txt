@@ -7,7 +7,7 @@ dxvk-2.5.2.1.tzst
 dxvk-2.5.2.tzst
 dxvk-2.5.1.2.tzst
 dxvk-2.5.1.tzst
-dxvk-2.4.1 (Installed) Balance-Performance
+dxvk-2.4.1 Balance Performance
 dxvk-2.4.24.tzst
 dxvk-2.4.1.1.tzst
 dxvk-2.4.1.293.tzst
