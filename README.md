@@ -62,6 +62,16 @@ List:
 
 Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities.
 
+# Minimum System Requirements:
+- Operating System (OS): Android 9.0 __or later__
+- Processor: Qualcomm Snapdragon 460 __or higher__
+- Graphics Processing Unit (GPU): Adreno 610 __or higher__ 
+- Graphics API: __Vulkan 1.1 or higher__
+- Internal Storage: At least __2GB of free space__
+- Memory RAM: At least __1GB of free space, depending on the games__ (1GB or more recommended for game titles released before 2010 or DX9 old games)
+- Root Access: Not required
+- Gamepad: Optional
+
 ----
 # Credits and Third-party apps
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
