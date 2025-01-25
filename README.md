@@ -70,7 +70,7 @@ List:
 - Graphics API: __Vulkan 1.1 or higher__
 - Internal Storage: At least __2GB of free space__
 - Memory RAM: At least __1GB of free space, depending on the games__ (1GB or more recommended for game titles released before 2010 or DX9-based games)
-- __Note: Some games may experience performance issues.__
+- __Note: Some modern games or certain games may experience performance issues.__
 __Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities.__
 
  
