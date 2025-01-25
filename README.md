@@ -69,7 +69,7 @@ List:
 - __Processor:__ Qualcomm Snapdragon 460 or higher
 - __Graphics Processing Unit (GPU):__ Adreno 610 or higher 
 - __Graphics API:__ Vulkan 1.1 or higher
-- __Internal Storage:__ At least 2GB of free space
+- __Internal Storage:__ At least 2GB of free space (for installation)
 - __RAM:__ At least `1GB of free space`, depending on the games (1GB of free space or more recommended for game titles released before 2012 or DX9-based games)
  
 __NOTE: Some games, especially those from 2012 onwards, may experience performance issues.__
