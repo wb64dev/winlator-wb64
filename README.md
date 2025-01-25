@@ -60,7 +60,6 @@ List:
 
 **This project has been in constant development since version 1.0, the current app** [![Download Apk](https://img.shields.io/badge/%20Source%20Code-wb64?style=plastic&logo=&logoColor=red&logoSize=14&label=%20&labelColor=golden&color=purple)](https://github.com/winebox64/winlator/tree/main/(1)_WINLATOR_v8.0%2B_SOURCE_CODE%3F) **is up to version 7.1, I do not update this repository frequently precisely to avoid unofficial releases before the official releases of Winlator.**
 
-Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities.
 
 # Minimum System Requirements:
 - Operating System (OS): Android 9.0 __or later__
@@ -68,10 +67,11 @@ Results can vary based on the device used, environmental conditions, and other f
 - Graphics Processing Unit (GPU): Adreno 610 __or higher__ 
 - Graphics API: __Vulkan 1.1 or higher__
 - Internal Storage: At least __2GB of free space__
-- Memory RAM: At least __1GB of free space, depending on the games__ (1GB or more recommended for game titles released before 2010 or DX9 old games)
-- Root Access: Not required
-- Gamepad: Optional
+- Memory RAM: At least __1GB of free space, depending on the games__ (1GB or more recommended for game titles released before 2010 or DX9-based games)
+- __Note: Some games may experience performance issues.__
+__Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities.__
 
+ 
 ----
 # Credits and Third-party apps
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
