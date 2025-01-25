@@ -60,7 +60,7 @@ List:
 
 ----
 
-# Minimum System Requirements:
+# Minimum System Requirements (WB64 Devel):
 - __OS (Operating System):__ Android 9.0 or later
 - __Processor/CPU (Central Processing Unit):__ Qualcomm Snapdragon 460 or higher
 - __GPU (Graphics Processing Unit):__ Adreno 610 or higher 
