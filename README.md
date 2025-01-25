@@ -65,14 +65,16 @@ List:
 ----
 
 # Minimum System Requirements:
-- __Operating System (OS):__ Android 9.0 or later
-- __Processor:__ Qualcomm Snapdragon 460 or higher
-- __Graphics Processing Unit (GPU):__ Adreno 610 or higher 
-- __Graphics API:__ Vulkan 1.1 or higher
-- __Internal Storage:__ At least 2GB of free space
-- __RAM:__ At least 1GB of free RAM, depending on the game requirments, (1GB of free space or more recommended for game titles released before 2012 or DX9-based games)
- 
-__NOTE: Some games, especially those from 2012 onwards, may experience performance issues.__
+- __OS (Operating System):__ Android 9.0 or later
+- __Processor/CPU (Central Processing Unit):__ Qualcomm Snapdragon 460 or higher
+- __GPU (Graphics Processing Unit):__ Adreno 610 or higher 
+- __Graphics API (Application Programming Interface):__ Vulkan 1.1 or higher
+- __Internal Storage/ROM (Read-Only Memory):__ At least 2GB of free space
+- __RAM (Random Access Memory):__ At least 1GB of free RAM available, depending on the game requirments
+- __Root Access:__ Not required
+- __Gamepad:__ Optional (xinput/xbox recommended)
+
+__NOTE: Recommended for game titles released before 2012 or DX9-based, Some games especially those from 2012 onwards, may experience performance issues.__
 __Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities.__
 
  
