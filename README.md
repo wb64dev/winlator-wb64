@@ -6,7 +6,7 @@
 </p>
 
 
-# Winlator ![img](https://img.shields.io/badge/Android%2010M+%20-winebox64?style=for-the-badge-plastic&logo=android&logoColor=green&logoSize=14&label=%20&labelColor=gray&color=66BA32) 
+# Winlator [![img](https://img.shields.io/badge/Android%2010M+%20-winebox64?style=for-the-badge-plastic&logo=android&logoColor=green&logoSize=14&label=%20&labelColor=gray&color=66BA32)](https://github.com/winebox64/winlator/releases/)
 
 Winlator is an Android application that lets you run Windows (x86_64) applications and games with Wine and Box86/Box64.
 
