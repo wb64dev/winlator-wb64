@@ -28,8 +28,8 @@ Winlator is an Android application that lets you run Windows (x86_64) applicatio
 
 - If you are experiencing performance issues, try changing the Box64 preset to __`Performance (Gaming Mode)`__ in Container Settings -> Advanced Tab.
 - For applications that use .NET Framework, try installing __`Wine Mono`__ found in Start Menu -> System Tools.
-__(Potencially improve game performance)__
-- If some older games don't open, try adding the environment variable __`MESA_EXTENSION_MAX_YEAR=2003`__ in Container Settings -> Environment Variables. __(Fix game launch and crash issues)__
+__Which may potentially improve game performance__
+- If some older games don't open, try adding the environment variable __`MESA_EXTENSION_MAX_YEAR=2003`__ in Container Settings -> Environment Variables. __Fix game launch and crash issues__
 - Try running the games using the shortcut on the Winlator home screen, there you can define individual settings for each game.
 - To display low resolution games correctly, try to enabling the __`Force Fullscreen`__ option in the shortcut settings -> Advanced Tab.
 - To __improve stability in games that uses Unity Engine__, try changing the Box64 preset to __`Stability (Unity Games)`__ or in the shortcut settings -> Advanced Tab, add the exec argument __`-force-gfx-direct`__.
