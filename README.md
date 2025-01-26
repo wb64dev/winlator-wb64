@@ -36,27 +36,27 @@ __Which may potentially improve game performance__
 
 List:
 
-![Qualcomm](https://img.shields.io/badge/Snapdragon%208%20Elite-grey?style=plastic&logo=snapdragon&logoColor=red)
+[![Qualcomm](https://img.shields.io/badge/Snapdragon%208%20Elite-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
 
-![Qualcomm](https://img.shields.io/badge/Snapdragon%207s%20Gen%203-grey?style=plastic&logo=snapdragon&logoColor=red)
+[![Qualcomm](https://img.shields.io/badge/Snapdragon%207s%20Gen%203-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
 
-![Qualcomm](https://img.shields.io/badge/Snapdragon%207%20Gen%203-grey?style=plastic&logo=snapdragon&logoColor=red)
+[![Qualcomm](https://img.shields.io/badge/Snapdragon%207%20Gen%203-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
 
-![Qualcomm](https://img.shields.io/badge/Snapdragon%207s%20Gen%202-grey?style=plastic&logo=snapdragon&logoColor=red)
+[![Qualcomm](https://img.shields.io/badge/Snapdragon%207s%20Gen%202-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
 
-![Qualcomm](https://img.shields.io/badge/Snapdragon%206%20Gen%203-grey?style=plastic&logo=snapdragon&logoColor=red)
+[![Qualcomm](https://img.shields.io/badge/Snapdragon%206%20Gen%203-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
 
-![Qualcomm](https://img.shields.io/badge/Snapdragon%206%20Gen%201-grey?style=plastic&logo=snapdragon&logoColor=red)
+[![Qualcomm](https://img.shields.io/badge/Snapdragon%206%20Gen%201-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
 
-![Qualcomm](https://img.shields.io/badge/Snapdragon%20860-grey?style=plastic&logo=snapdragon&logoColor=red)
+[![Qualcomm](https://img.shields.io/badge/Snapdragon%20860-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
 
-![Qualcomm](https://img.shields.io/badge/Snapdragon%20735-grey?style=plastic&logo=snapdragon&logoColor=red)
+[![Qualcomm](https://img.shields.io/badge/Snapdragon%20735-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
 
 ----
 
 # Information
 
-**This project has been in constant development since version 1.0, the current app** [![Download Apk](https://img.shields.io/badge/%20Source%20Code-wb64?style=for-the-badge-plastic&logo=&logoColor=red&logoSize=14&label=%20&labelColor=golden&color=purple)](https://github.com/winebox64/winlator/tree/main/(1)_WINLATOR_v8.0%2B_SOURCE_CODE%3F) **is up to version 7.1, I do not update this repository frequently precisely to avoid unofficial releases before the official releases of Winlator.**
+This project has been in constant development since version 1.0, the current app [![source code](https://img.shields.io/badge/%20Source%20Code-wb64?style=for-the-badge-plastic&logo=&logoColor=red&logoSize=14&label=%20&labelColor=golden&color=red)](https://github.com/winebox64/winlator/tree/main/(1)_WINLATOR_v8.0%2B_SOURCE_CODE%3F) is up to version 7.1, I do not update this repository frequently precisely to avoid unofficial releases before the official releases of Winlator.
 
 ----
 
