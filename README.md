@@ -13,7 +13,7 @@ Winlator is an Android application that lets you run Windows (x86_64) applicatio
 ----
 # Installation
 
-1. Download and install the APK (Winlator_latest_version.apk) from here [![winlator winebox64 devel apk](https://img.shields.io/badge/%20Download%20-wb64?style=for-the-badge-plastic&logo=Android&logoColor=green&logoSize=14&label=%20&labelColor=gray&color=66BA32)](https://github.com/winebox64/winlator/releases)
+1. Download and install the APK (Winlator_latest_version.apk) from here [![winlator winebox64 apk](https://img.shields.io/badge/%20Download%20-wb64?style=for-the-badge-plastic&logo=Android&logoColor=green&logoSize=14&label=%20&labelColor=gray&color=66BA32)](https://github.com/winebox64/winlator/releases)
 
 2. Launch the app
 
@@ -60,12 +60,12 @@ This project has been in constant development since version 1.0, the current app
 
 ----
 
-# Minimum System Requirements (WB64 Devel):
+# Minimum System Requirements (WineBox64):
 - __OS (Operating System):__ Android 9.0 or later
 - __Processor/CPU (Central Processing Unit):__ Qualcomm Snapdragon 460 or higher
 - __GPU (Graphics Processing Unit):__ Adreno 610 or higher 
-- __Graphics API (Application Programming Interface):__ Vulkan 1.1 or higher
-- __Internal Storage/ROM (Read-Only Memory):__ At least 2GB of free space
+- __Graphics API:__ Vulkan 1.1 or higher
+- __Internal Storage/ROM:__ At least 2GB of free space
 - __RAM (Random Access Memory):__ At least 1GB of free RAM available, depending on the game requirments
 - __Root Access:__ Not required
 - __Gamepad:__ Optional (xinput/xbox recommended)
