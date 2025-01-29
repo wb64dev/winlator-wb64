@@ -34,7 +34,7 @@ __Which may potentially improve game performance__
 
 ## Vortek Driver (Experimental)
 
-List:
+The Vortek driver is for processors that do not support the Turnip driver:
 
 [![Qualcomm](https://img.shields.io/badge/Snapdragon%208%20Elite-grey?style=plastic&logo=snapdragon&logoColor=red)](https://github.com/winebox64/winlator)
 
