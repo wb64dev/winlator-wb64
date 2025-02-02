@@ -13,7 +13,7 @@ Winlator is an Android application that lets you run Windows (x86_64) applicatio
 ----
 # Installation
 
-1. Download and install the APK (Winlator_latest_version.apk) from here [![winlator winebox64 apk](https://img.shields.io/badge/%20Download%20-wb64?style=for-the-badge-plastic&logo=Android&logoColor=green&logoSize=14&label=%20&labelColor=gray&color=66BA32)](https://github.com/winebox64/winlator/releases)
+1. Download and install the APK (Winlator_latest_version.apk) from here [![winlator winebox64 apk](https://img.shields.io/badge/%20Download%20-wb64?style=for-the-badge-plastic&logo=Androids&logoColor=green&logoSize=14&label=%20&labelColor=golden&color=66BA32)](https://github.com/winebox64/winlator/releases)
 
 2. Launch the app
 
@@ -90,7 +90,3 @@ __Results can vary based on the device used, environmental conditions, and other
 Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/) (Turnip), [alexvorxx](https://github.com/alexvorxx) (Mods/Tips) and others.<br>
 Thank you to all the people who believe in this project.
 
-<p align="center">
-	<a href="https://github.com/winebox64/winlator/releases">
-	<img src="logo.png" height="128" width="376" alt="Winlator Logo" />  
-</p>
