@@ -1,6 +1,6 @@
 ⚠️ Having problem with the game? Try another version.
 ⚠️ INFO: 8 elite, sd860, 7g3, 7sg2, 7+g2, 6g3, 6g1 using VORTEK.
-new version? stay tune.
+⚠️ (NEW) Added version 25.1.0 (R1)
 turnip-25.1.0.tzst
 turnip-25.0.8.tzst
 turnip-25.0.7.tzst
