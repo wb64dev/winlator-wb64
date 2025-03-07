@@ -71,7 +71,6 @@ This project has been in constant development since version 1.0, the current app
 - __Gamepad:__ Optional (xinput/xbox recommended)
 
 
-__NOTE: Recommended for game titles released before 2012 or DX9-based, Some games especially those from 2012 onwards, may experience performance issues.__
 __Results can vary based on the device used, environmental conditions, and other factors, such as simultaneous processing, and different processor capabilities.__
 
  
