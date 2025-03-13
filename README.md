@@ -3,7 +3,7 @@
 	<img src="logo.png" height="128" width="376" alt="Winlator Logo" />  
 </p>
 
-
+ 
 # Winlator WB64
 
 Winlator is an Android application that lets you run Windows (x86_64) applications and games with Wine and Box86/Box64.
