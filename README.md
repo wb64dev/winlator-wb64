@@ -4,7 +4,7 @@
 </p>
 
 
-# Winlator 
+# Winlator WB64
 
 Winlator is an Android application that lets you run Windows (x86_64) applications and games with Wine and Box86/Box64.
 
