@@ -10,7 +10,7 @@ Winlator is an Android application that lets you run Windows (x86_64) applicatio
 
 ✅ __[WINLATOR.ORG](https://winlator.org) is the original site.__ 
 
-⚠️ __while [~WINLATOR.COM~](https://github.com/winebox64/winlator/releases), [~WINLATOR.APP~](https://github.com/winebox64/winlator/releases) and others are fake.__
+❌ __while [~WINLATOR.COM~](https://github.com/winebox64/winlator/releases), [~WINLATOR.APP~](https://github.com/winebox64/winlator/releases) and others are fake.__
 
 ⚠️ __Never share your E-mail address or any other personal information with them.__ 
 
