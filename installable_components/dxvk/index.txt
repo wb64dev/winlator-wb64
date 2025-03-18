@@ -1,6 +1,7 @@
 ⚠️ Having problem with the game? Try another version. 
-⚠️ INFO: Added v2.5.3.1 with Async.
+⚠️ INFO: Added v2.6.1 Enhanced Async.
 new version? stay tune.
+dxvk-2.6.1.tzst
 dxvk-2.5.3.1.tzst
 dxvk-2.5.3.tzst
 dxvk-2.5.2.1.tzst
